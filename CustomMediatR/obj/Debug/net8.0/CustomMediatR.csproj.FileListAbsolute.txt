@@ -1,0 +1,12 @@
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\bin\Debug\net8.0\CustomMediatR.deps.json
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\bin\Debug\net8.0\CustomMediatR.dll
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\bin\Debug\net8.0\CustomMediatR.pdb
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\obj\Debug\net8.0\CustomMediatR.csproj.AssemblyReference.cache
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\obj\Debug\net8.0\CustomMediatR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\obj\Debug\net8.0\CustomMediatR.AssemblyInfoInputs.cache
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\obj\Debug\net8.0\CustomMediatR.AssemblyInfo.cs
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\obj\Debug\net8.0\CustomMediatR.csproj.CoreCompileInputs.cache
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\obj\Debug\net8.0\CustomMediatR.dll
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\obj\Debug\net8.0\refint\CustomMediatR.dll
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\obj\Debug\net8.0\CustomMediatR.pdb
+D:\Development\DemoWebAPIWithCustomMediatRAndCQRS\CustomMediatR\obj\Debug\net8.0\ref\CustomMediatR.dll

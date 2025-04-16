@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JsuD2Iq4Drk=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Jhom'z\\Desktop\\Work\\Development\\DemoWebAPIWithCustomMediatRAndCQRS\\DemoWebAPIWithCustomMediatRAndCQRS\\CustomMediatR\\CustomMediatR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhom'z\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\Jhom'z\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

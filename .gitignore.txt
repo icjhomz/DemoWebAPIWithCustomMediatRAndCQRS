@@ -1,0 +1,71 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-generated files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# VS for Mac
+.vscode/
+.idea/
+.vscode/
+
+# Rider
+.idea/
+
+# VS Code
+.history/
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.bak
+*.backup
+*.sql
+*.cache
+*.orig
+
+# Others
+*.ncrunch*
+*.localhistory
+*.DS_Store
+*.tgz
+*.gz
+*.7z
+*.zip
+
+# DotCover
+.idea/
+.dotCover
+
+# Logs
+*.log
+logs/

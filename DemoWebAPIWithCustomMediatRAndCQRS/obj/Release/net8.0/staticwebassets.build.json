@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "C/4pg/T/1/fkaJT3s46m1VFl4W1rF/nVS6uX2oblfwA=",
+  "Source": "DemoWebAPIWithCustomMediatRAndCQRS",
+  "BasePath": "_content/DemoWebAPIWithCustomMediatRAndCQRS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
